@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-19T14:41:21Z" name="Default suite" finished-at="2022-04-19T14:41:27Z" duration-ms="6188">
+    <groups>
+    </groups>
+    <test started-at="2022-04-19T14:41:21Z" name="Default test" finished-at="2022-04-19T14:41:27Z" duration-ms="6188">
+      <class name="Seleniumscript.LoginAutomation">
+        <test-method signature="login()[pri:0, instance:Seleniumscript.LoginAutomation@6ee4d9ab]" started-at="2022-04-19T14:41:21Z" name="login" finished-at="2022-04-19T14:41:27Z" duration-ms="6135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Seleniumscript.LoginAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
